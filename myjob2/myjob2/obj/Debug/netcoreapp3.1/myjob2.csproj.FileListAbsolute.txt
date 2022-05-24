@@ -1,0 +1,13 @@
+C:\Users\BAKU\source\repos\myjob2\myjob2\obj\Debug\netcoreapp3.1\myjob2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\myjob2\myjob2\obj\Debug\netcoreapp3.1\myjob2.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\myjob2\myjob2\obj\Debug\netcoreapp3.1\myjob2.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\myjob2\myjob2\obj\Debug\netcoreapp3.1\myjob2.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\source\repos\myjob2\myjob2\bin\Debug\netcoreapp3.1\myjob2.exe
+C:\Users\BAKU\source\repos\myjob2\myjob2\bin\Debug\netcoreapp3.1\myjob2.deps.json
+C:\Users\BAKU\source\repos\myjob2\myjob2\bin\Debug\netcoreapp3.1\myjob2.runtimeconfig.json
+C:\Users\BAKU\source\repos\myjob2\myjob2\bin\Debug\netcoreapp3.1\myjob2.runtimeconfig.dev.json
+C:\Users\BAKU\source\repos\myjob2\myjob2\bin\Debug\netcoreapp3.1\myjob2.dll
+C:\Users\BAKU\source\repos\myjob2\myjob2\bin\Debug\netcoreapp3.1\myjob2.pdb
+C:\Users\BAKU\source\repos\myjob2\myjob2\obj\Debug\netcoreapp3.1\myjob2.dll
+C:\Users\BAKU\source\repos\myjob2\myjob2\obj\Debug\netcoreapp3.1\myjob2.pdb
+C:\Users\BAKU\source\repos\myjob2\myjob2\obj\Debug\netcoreapp3.1\myjob2.genruntimeconfig.cache
